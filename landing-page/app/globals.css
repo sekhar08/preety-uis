@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Manrope:wght@200..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: oklch(68.5% 0.169 237.323);
+  --font-display: "Manrope", sans-serif;
+  --font-paaji: "Geist", sans-serif;
+  --spacing-paaji-relaxed: 4rem;
+}
